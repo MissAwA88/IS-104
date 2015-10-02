@@ -1,0 +1,4 @@
+var a = prompt ( «Ett tall: «);
+var b = prompt («Andre tall: «);
+function add(x,y) {  return +x + y;) } 
+console.log(add (a + b) );
